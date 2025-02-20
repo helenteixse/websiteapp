@@ -28,7 +28,10 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'localhost',       # Allows requests from localhost
     '127.0.0.1',       # Allows requests from the local machine (loopback address)
-    'website_project.onrender.com', # Replace with your actual domain    
+    'website_project.onrender.com',
+    'website_app.com',
+    'website_project.com',
+     'websiteapp.com',# Replace with your actual domain   
 ]
 
 
